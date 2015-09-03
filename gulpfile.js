@@ -13,7 +13,7 @@ var assign = require('lodash.assign');
 
 // add custom browserify options here
 var customOpts = {
-  entries: './app/app.jsx',
+  entries: './js/app.jsx',
   extensions: ['.jsx'],
   debug: true
 };
